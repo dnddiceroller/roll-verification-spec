@@ -1,5 +1,8 @@
 # roll-verification-spec
 
+<img width="2942" height="1728" alt="Screenshot 2026-10-03 at 13-11-24 DnD Dice Roller Online Dice Roller for D D and Tabletop RPGs" src="https://github.com/user-attachments/assets/d394e561-df5a-45a8-aa0b-2133899667c0" />
+
+
 From the team behind [dnddiceroller.com](https://dnddiceroller.com) · [more from us](https://github.com/dnddiceroller)
 
 **Roll dice. Keep the receipt.**
